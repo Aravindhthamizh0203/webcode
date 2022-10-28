@@ -1,0 +1,30 @@
+
+.main1{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	}
+body {
+		/*background-image: url('https://img.freepik.com/free-psd/natural-light-lens-flare-psd-gold-background-sun-ray-effect_53876-140441.jpg?w=2000');
+		*/
+		/*background-image: url('https://images-cdn.welcomesoftware.com/Zz0zZTliMjQ4MzhlNGExMWViYmJiMjFiZTI2ZWNmN2MzZA==');
+		*/
+		background-image: url('https://images-cdn.welcomesoftware.com/Zz0wZGI4ZTI2NjhlNGQxMWViODVlN2QzNTI0ZjhkZTQyOA==');
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+  		
+	}
+h1{
+	color: #003366;
+	font-family: "Times New Roman", Times, serif;
+	font-display: 1;
+}
+h3{
+	color: #000;
+	font-family: "Times New Roman", Times, serif;
+}
+input{
+	text-align: center;
+	color: blue;
+}
